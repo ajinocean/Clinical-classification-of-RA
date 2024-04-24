@@ -1,1 +1,2 @@
-# aking
+# Clinical classification of RA study
+Through the integration of clinicopathological information, immunophenotype analyses, serum proteomics, and other multi-modal datasets, a sophisticated classification system has been devised for over 3000 rheumatoid arthritis (RA) patients spanning three centers. This system is meticulously designed to provide precise clinical guidance and recommendations, facilitating accurate treatment and prognostic management for RA patients.
